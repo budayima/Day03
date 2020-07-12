@@ -6,12 +6,12 @@
 /*   By: budayima <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/12 09:02:52 by budayima          #+#    #+#             */
-/*   Updated: 2020/07/12 09:02:58 by budayima         ###   ########.fr       */
+/*   Updated: 2020/07/12 09:25:55 by budayima         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include<stdio.h>
-void ft_ultimate-ft(int *nbr)
+void ft_ultimate-ft(int ********nbr)
 {
 	*********nbr = 42;
 }
