@@ -9,8 +9,6 @@
 /*   Updated: 2020/07/13 15:10:24 by budayima         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include<stdio.h>
 void	ft_ultimate_div_mod(int *a, int *b)
 {
 	int division;
