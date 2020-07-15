@@ -9,8 +9,6 @@
 /*   Updated: 2020/07/13 13:21:56 by budayima         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdio.h>
 void ft_div_mod(int a, int b, int *div, int*mod)
 {
 	*div = (a / b);
